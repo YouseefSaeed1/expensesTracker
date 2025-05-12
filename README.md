@@ -1,4 +1,4 @@
-# second_app
+# Expenses Tracker
 
 A new Flutter project.
 
